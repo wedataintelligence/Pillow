@@ -16,3 +16,4 @@ sphinx-issues
 sphinx-removed-in
 sphinx-rtd-theme
 sphinxext-opengraph
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
